@@ -53,9 +53,11 @@ Health tracking web application built with Flask for managing wellness-related r
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-satyendra9956-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/satyendra9956/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyendra%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyendra-prajapati-15s08/)
 
 ## Connect
 
 - GitHub: [satyendraprajapati9956-max](https://github.com/satyendraprajapati9956-max)
+- LinkedIn: [Satyendra Prajapati](https://www.linkedin.com/in/satyendra-prajapati-15s08/)
 - LeetCode: [satyendra9956](https://leetcode.com/u/satyendra9956/)
 - Portfolio: Coming soon
