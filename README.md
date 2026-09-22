@@ -50,7 +50,12 @@ Health tracking web application built with Flask for managing wellness-related r
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyendraprajapati9956-max&layout=compact&theme=default)
 
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-satyendra9956-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/satyendra9956/)
+
 ## Connect
 
 - GitHub: [satyendraprajapati9956-max](https://github.com/satyendraprajapati9956-max)
+- LeetCode: [satyendra9956](https://leetcode.com/u/satyendra9956/)
 - Portfolio: Coming soon
