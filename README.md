@@ -1,4 +1,8 @@
-# Hi, I'm Satyendra Prajapati
+<p align="center">
+  <img src="assets/satyendra-prajapati.png" alt="Satyendra Prajapati" width="180" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Satyendra Prajapati</h1>
 
 Aspiring full-stack developer focused on building practical web applications with clean interfaces, reliable APIs, and database-backed workflows.
 
