@@ -50,5 +50,3 @@ Health tracking web application built with Flask for managing wellness-related r
 
 - GitHub: [satyendraprajapati9956-max](https://github.com/satyendraprajapati9956-max)
 - Portfolio: Coming soon
-- LinkedIn: Add your LinkedIn profile link here
-
